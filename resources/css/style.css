@@ -1,0 +1,29 @@
+html{
+    background-color: black;
+    font-family: Verdana;
+    text-align: center;
+    color: white;
+}
+
+h1{
+    font-weight: normal;
+    font-size: 3.125rem;
+}
+.cta{
+    font-size: 1rem;
+    color: aquamarine;
+}
+.guide{
+    font-size: 2.625rem;
+    font-weight: 300;
+}
+.guide p{
+    color: gray;
+    font-size:1.3125rem;
+
+}
+#icon{
+    color: gray;
+    font-size:1.3125rem;
+    text-align: right;
+}
